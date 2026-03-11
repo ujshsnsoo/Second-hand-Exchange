@@ -1,4 +1,6 @@
-![ResizedImage_2026-03-11_03-04-58_8835](https://github.com/user-attachments/assets/b21cea6a-6d5d-4d27-9695-4f07b23e13ce)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b21cea6a-6d5d-4d27-9695-4f07b23e13ce" width="50%">
+</div>
 
 # “闲物交易所”
 
